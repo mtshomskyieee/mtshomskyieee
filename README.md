@@ -1,6 +1,5 @@
 - 👋 Hi, I’m mtshomsky (at) ieee
-- Software, Embedded
-- 💞️ I’m looking to collaborate on Game/Game-Design, 3D modelling, Services
+- Software, Generalist, Tshaped Developer
 - 📫 How to reach me : mtshomsky (at) ieee.org
 
 <!---
