@@ -1,9 +1,9 @@
-Michael Shomsky:
+# Michael Shomsky
 - Software, Generalist, Tshaped Developer
 - 📫 How to reach me : mtshomsky (at) ieee.org
 - http://www.michaeltshomsky.org
 - https://medium.com/@mtshomsky
-Help fund my work:
+# Help fund my work
 - https://ko-fi.com/michaeltshomsky
 
 <!---
